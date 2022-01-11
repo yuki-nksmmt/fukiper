@@ -23,8 +23,8 @@ const test_txt = "親譲りの無鉄砲で小供の時から損ばかりして�
   let interimResults = true;
 
 function preload() {
-    fuki = loadImage('data/fuki.png');
-    font = loadFont('data/NotoSansJP-Medium.otf');
+    fuki = loadImage('Data/fuki.png');
+    font = loadFont('Data/NotoSansJP-Medium.otf');
 }
 
 function setup(){
